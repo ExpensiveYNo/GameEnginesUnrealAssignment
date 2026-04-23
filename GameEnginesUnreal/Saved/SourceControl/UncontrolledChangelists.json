@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_Character.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_RatSplinePath.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/ThirdPerson/Blueprints/BP_SplineObject.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/K0/LBDV0EONFEZJ260NM8DAFA.uasset",
+				"C:/Unreal/GameEnginesUnrealAssignment/GameEnginesUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/A4/CPPQKDA4BJ260T3KCFLW52.uasset"
+			]
+		}
+	]
+}

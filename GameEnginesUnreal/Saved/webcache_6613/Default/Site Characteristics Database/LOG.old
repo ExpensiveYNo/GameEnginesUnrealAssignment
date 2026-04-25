@@ -1,5 +1,1 @@
-2026/04/24-13:46:28.283 5ba4 Log #3: 4 ops saved to Table #4 OK
-2026/04/24-13:46:28.286 5ba4 Archiving C:\Users\figue\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/04/24-13:46:28.286 5ba4 Table #4: 4 entries OK
-2026/04/24-13:46:28.288 5ba4 Archiving C:\Users\figue\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/24-13:46:28.303 5ba4 **** Repaired leveldb C:\Users\figue\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
+2026/04/24-13:46:28.317 5ba4 Reusing MANIFEST C:\Users\figue\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001

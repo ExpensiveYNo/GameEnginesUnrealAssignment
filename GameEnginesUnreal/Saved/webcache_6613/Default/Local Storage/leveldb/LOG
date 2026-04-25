@@ -1,3 +1,9 @@
-2026/04/25-14:32:02.209 811c Reusing MANIFEST C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/25-14:32:02.215 811c Recovering log #4
-2026/04/25-14:32:02.219 811c Reusing old log C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/25-15:34:54.117 8ae4 Reusing MANIFEST C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/25-15:34:54.124 8ae4 Recovering log #4
+2026/04/25-15:34:54.128 8ae4 Reusing old log C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/25-15:36:57.825 57d8 Level-0 table #8: started
+2026/04/25-15:36:57.829 57d8 Level-0 table #8: 76218 bytes OK
+2026/04/25-15:36:57.832 57d8 Delete type=0 #4
+2026/04/25-15:38:58.975 57d8 Level-0 table #10: started
+2026/04/25-15:38:58.980 57d8 Level-0 table #10: 76146 bytes OK
+2026/04/25-15:38:58.983 57d8 Delete type=0 #7

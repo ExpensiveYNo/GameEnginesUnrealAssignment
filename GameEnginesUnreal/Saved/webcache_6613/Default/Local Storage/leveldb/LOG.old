@@ -1,24 +1,15 @@
-2026/04/25-19:17:41.725 864c Reusing MANIFEST C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/25-19:17:41.731 864c Recovering log #14
-2026/04/25-19:17:41.735 864c Reusing old log C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/000014.log 
-2026/04/25-19:19:05.446 822c Level-0 table #18: started
-2026/04/25-19:19:05.453 822c Level-0 table #18: 81083 bytes OK
-2026/04/25-19:19:05.454 822c Delete type=0 #14
-2026/04/25-19:19:05.455 822c Compacting 4@0 + 1@1 files
-2026/04/25-19:19:05.460 822c Generated table #19@0: 9 keys, 28009 bytes
-2026/04/25-19:19:05.461 822c Compacted 4@0 + 1@1 files => 28009 bytes
-2026/04/25-19:19:05.461 822c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/25-19:19:05.463 822c Delete type=2 #8
-2026/04/25-19:19:05.463 822c Delete type=2 #10
-2026/04/25-19:19:05.463 822c Delete type=2 #13
-2026/04/25-19:19:05.463 822c Delete type=2 #15
-2026/04/25-19:19:05.463 822c Delete type=2 #18
-2026/04/25-19:22:05.454 822c Level-0 table #21: started
-2026/04/25-19:22:05.459 822c Level-0 table #21: 80382 bytes OK
-2026/04/25-19:22:05.460 822c Delete type=0 #17
-2026/04/25-19:24:12.847 822c Level-0 table #23: started
-2026/04/25-19:24:12.852 822c Level-0 table #23: 84030 bytes OK
-2026/04/25-19:24:12.854 822c Delete type=0 #20
-2026/04/25-19:25:39.984 822c Level-0 table #25: started
-2026/04/25-19:25:39.990 822c Level-0 table #25: 85785 bytes OK
-2026/04/25-19:25:39.993 822c Delete type=0 #22
+2026/04/25-19:46:35.180 920 Reusing MANIFEST C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/25-19:46:35.185 920 Recovering log #24
+2026/04/25-19:46:35.188 920 Reusing old log C:\Unreal\GameEnginesUnrealAssignment\GameEnginesUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/000024.log 
+2026/04/25-19:49:35.657 9f7c Level-0 table #28: started
+2026/04/25-19:49:35.662 9f7c Level-0 table #28: 88188 bytes OK
+2026/04/25-19:49:35.664 9f7c Delete type=0 #24
+2026/04/25-19:49:35.665 9f7c Compacting 4@0 + 1@1 files
+2026/04/25-19:49:35.669 9f7c Generated table #29@0: 9 keys, 30165 bytes
+2026/04/25-19:49:35.669 9f7c Compacted 4@0 + 1@1 files => 30165 bytes
+2026/04/25-19:49:35.670 9f7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/25-19:49:35.671 9f7c Delete type=2 #19
+2026/04/25-19:49:35.671 9f7c Delete type=2 #21
+2026/04/25-19:49:35.671 9f7c Delete type=2 #23
+2026/04/25-19:49:35.671 9f7c Delete type=2 #25
+2026/04/25-19:49:35.671 9f7c Delete type=2 #28
